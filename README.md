@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Me chamo Rhuan e sou estudante de ADS e monitor de POO, do Brasil.</h2>
+<h2 align="left">Olá 👋! Me chamo Rhuan e sou estudante de Sistema de Informação pela UFRPE e monitor de POO no IFPE</h2>
 
 ###
 
