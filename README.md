@@ -64,8 +64,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhuangomes10&show_icons=true&theme=dracula&hide_border=false&count_private=true&locale=pt-br&v=2" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuangomes10&layout=compact&theme=dracula&hide_border=false&locale=pt-br&v=2" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rhuangomes10&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rhuangomes10&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ###
