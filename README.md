@@ -31,8 +31,9 @@
 ###
 
 <p align="left">
-  Sou Rhuan Gomes, estudante de Sistemas de Informação pela UFRPE e monitor de POO no IFPE Campus Jaboatão, do Brasil.<br><br>
-  - 🔭 Atualmente trabalhando como monitor de Programação Orientada a Objetos no IFPE<br>
+  Sou Rhuan Gomes, estudante de Sistemas de Informação pela UFRPE<br><br>
+  - 🔭 Recentemente, conclui o curso de técnico em Informática para Internet pelo IFPE<br>
+  - ☄️​ Sou formado em técnico de Análise e Desenvolvimento de Sistemas pelo SENAI<br>
   - 📚 Aprendendo Java, React e SQL<br>
   - ⚡ No meu tempo livre gosto de explorar novas tecnologias e contribuir com projetos
 </p>
