@@ -1,11 +1,9 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
-
 ###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/rhuan-gomes-b1b516250">
+  <a href="https://www.linkedin.com/in/rhuan-gomesdev">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/rhuangomes12/">
@@ -13,66 +11,55 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
 </div>
-
 ###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rhuangomes10.rhuangomes10" />
 </div>
-
 ###
-
 <h1 align="center">Olá! 👋</h1>
-
 ###
-
 <h3 align="left">👩‍💻 Sobre mim</h3>
-
 ###
-
 <p align="left">
-  Sou Rhuan Gomes, estudante de Sistemas de Informação pela UFRPE<br><br>
-  - 🔭 Recentemente, conclui o curso de técnico em Informática para Internet pelo IFPE<br>
-  - ☄️​ Sou formado em técnico de Análise e Desenvolvimento de Sistemas pelo SENAI<br>
-  - 📚 Aprendendo Java, React e SQL<br>
+  Sou Rhuan Gomes, estudante de Sistemas de Informação pela UFRPE e Desenvolvedor Full Stack Júnior<br><br>
+  - 💼 Atualmente Analista de Projetos na Seed a Bit, desenvolvendo aplicações back-end com Nest.js, TypeScript e Prisma<br>
+  - 🎓 Técnico em Informática para Internet pelo IFPE e Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI<br>
+  - 🧑‍🏫 Fui monitor de Programação Orientada a Objetos (Java) no IFPE, apoiando colegas de turma<br>
+  - 📚 Aprofundando conhecimentos em Nest.js, Prisma e boas práticas de back-end<br>
+  - 🏆 5º lugar mundial no Microsoft Office Specialist World Championship 2024 (Word)<br>
   - ⚡ No meu tempo livre gosto de explorar novas tecnologias e contribuir com projetos
 </p>
-
 ###
-
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
-
 ###
-
 <h3 align="left">🔥 Minhas estatísticas:</h3>
-
 ###
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rhuangomes10&theme=dracula" height="150" alt="stats graph" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rhuangomes10&theme=dracula" height="150" alt="languages graph" />
 </div>
-
 ###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rhuangomes10&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
-
 ###
