@@ -4,7 +4,7 @@
 <h1 align="center">Rhuan Gomes</h1>
 <h3 align="center">FullStack Developer</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,ts,prisma" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,react,ts,prisma" height="40" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=39D1D9&center=true&vCenter=true&width=700&height=60&lines=Node.js+%7C+NestJS+%7C+TypeScript;Sempre+aprendendo+algo+novo;Boas+pr%C3%A1ticas+e+c%C3%B3digo+limpo" alt="Typing SVG" />
