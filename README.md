@@ -45,8 +45,7 @@ Meu objetivo é simples: escrever código limpo, construir software confiável e
 </p>
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhuangomes10&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuangomes10&layout=compact&hide_border=true&theme=default" height="165"/>
+  <img src="https://ghstats.dev/api/card?username=rhuangomes10" alt="GitHub Stats Card"/>
 </p>
 <h2 align="center">📈 Activity Graph</h2>
 <p align="center">
