@@ -1,6 +1,10 @@
-<h1 align="center">Olá 👋, sou Rhuan</h1>
+<p align="center">
+  <img src="./assets/banner.svg" alt="Banner" width="100%">
+</p>
 
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Olá 👋, Imma Rhuan</h1>
+
+<h3 align="center">Back-end Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=39D1D9&center=true&vCenter=true&width=700&height=60&lines=Node.js+%7C+NestJS+%7C+TypeScript;Sempre+aprendendo+algo+novo;Boas+pr%C3%A1ticas+e+c%C3%B3digo+limpo" alt="Typing SVG" />
@@ -53,7 +57,8 @@ Meu objetivo é simples: escrever código limpo, construir software confiável e
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rhuangomes10&locale=pt-br&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rhuangomes10&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuangomes10&layout=compact&hide_border=true&theme=default" height="165"/>
 </p>
 
 <h2 align="center">📈 Activity Graph</h2>
