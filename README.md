@@ -44,15 +44,6 @@ developing back-end APIs with <b>NestJS, TypeScript, and Prisma</b>.
 
 <br>
 
-<h3>📚 Currently learning</h3>
-
-<p>
-  Software Architecture · Clean Code · REST APIs ·
-  Scalable Systems
-</p>
-
-<br>
-
 <h2>📊 GitHub Stats</h2>
 
 <p>
@@ -68,7 +59,7 @@ developing back-end APIs with <b>NestJS, TypeScript, and Prisma</b>.
 
 <p>
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rhuangomes10&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rhuangomes10"
     alt="GitHub Activity Graph"
   />
 </p>
