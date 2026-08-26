@@ -1,27 +1,3 @@
-<!-- Perfil -->
-<table>
-  <tr>
-    <td width="35%" align="center" valign="top">
-      <img src="./assets/avatar.png" alt="Rhuan Gomes" width="260" />
-      <br><br>
-
-      <h2>Rhuan Gomes</h2>
-
-      <p>
-        <b>FullStack Developer</b>
-      </p>
-
-      <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,react,ts,prisma" height="35" />
-      </p>
-
-      <p>
-        📍 Recife, PE, Brasil
-      </p>
-    </td>
-
-    <td width="65%" valign="top">
-
 <h1>Hi 👋, I'm Rhuan</h1>
 
 <p>
