@@ -49,30 +49,6 @@ desenvolvendo APIs back-end com <b>NestJS, TypeScript e Prisma</b>.
 
 <br>
 
-<!-- Sobre mim -->
-<h2 align="center">🚀 Sobre mim</h2>
-
-<p align="center">
-  Sou o <b>Rhuan</b>, estudante de Sistemas de Informação pela UFRPE
-  e Técnico em Informática para Internet pelo IFPE.
-</p>
-
-<p align="center">
-  Atualmente atuo como <b>Analista de Projetos na Seed a Bit</b>,
-  desenvolvendo APIs back-end com NestJS, TypeScript e Prisma.
-</p>
-
-<p align="center">
-  Já fui monitor de <b>Programação Orientada a Objetos (Java)</b> no IFPE
-  e conquistei o <b>5º lugar mundial no Microsoft Office Specialist
-  World Championship 2024</b> na categoria Word.
-</p>
-
-<p align="center">
-  Meu objetivo é escrever código limpo, construir software confiável
-  e evoluir como desenvolvedor, criando sistemas que realmente durem.
-</p>
-
 <br>
 
 <!-- Conecte-se -->
