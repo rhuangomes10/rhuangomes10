@@ -56,16 +56,6 @@ desenvolvendo APIs back-end com <b>NestJS, TypeScript e Prisma</b>.
 
 <br>
 
-
-<!-- Tech Stack -->
-<h2>🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,nodejs,react,prisma,mysql,postgres,git" />
-</p>
-
-<br>
-
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 
