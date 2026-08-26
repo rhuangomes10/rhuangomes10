@@ -50,10 +50,6 @@ desenvolvendo APIs back-end com <b>NestJS, TypeScript e Prisma</b>.
   Sistemas escaláveis
 </p>
 
-    </td>
-  </tr>
-</table>
-
 <br>
 
 <!-- GitHub Stats -->
