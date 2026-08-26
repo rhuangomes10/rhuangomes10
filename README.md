@@ -59,7 +59,7 @@ developing back-end APIs with <b>NestJS, TypeScript, and Prisma</b>.
 
 <p>
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rhuangomes10"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rhuangomes10](https://github-readme-activity-graph.vercel.app/graph?username=rhuangomes10&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16"
     alt="GitHub Activity Graph"
   />
 </p>
