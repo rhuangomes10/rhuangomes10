@@ -56,22 +56,9 @@ desenvolvendo APIs back-end com <b>NestJS, TypeScript e Prisma</b>.
 
 <br>
 
-<!-- Frase -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=39D1D9&center=true&vCenter=true&width=700&height=60&lines=Node.js+%7C+NestJS+%7C+TypeScript;Sempre+aprendendo+algo+novo;Boas+pr%C3%A1ticas+e+c%C3%B3digo+limpo"
-    alt="Typing SVG"
-  />
-</p>
-
-<br>
-
-<br>
-
-<br>
 
 <!-- Tech Stack -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,nodejs,react,prisma,mysql,postgres,git" />
@@ -80,9 +67,9 @@ desenvolvendo APIs back-end com <b>NestJS, TypeScript e Prisma</b>.
 <br>
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
-<p align="center">
+<p>
   <img
     src="https://ghstats.dev/api/card?username=rhuangomes10"
     alt="GitHub Stats Card"
@@ -91,8 +78,7 @@ desenvolvendo APIs back-end com <b>NestJS, TypeScript e Prisma</b>.
 
 <br>
 
-<!-- Activity -->
-<h2 align="center">📈 Activity</h2>
+<h2>📈 Activity</h2>
 
 <p align="center">
   <img
