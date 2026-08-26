@@ -24,6 +24,23 @@ desenvolvendo APIs back-end com <b>NestJS, TypeScript e Prisma</b>.
   <img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,nodejs,react,prisma,mysql,postgres,git" />
 </p>
 
+<!-- Conecte-se -->
+<h2 >🤝 Connect with me</h2>
+
+<p>
+  <a href="https://github.com/rhuangomes10">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rhuan-gomes-dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/rhuangomes12/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+</p>
+
 <br>
 
 <h3>📚 Currently learning</h3>
@@ -50,23 +67,6 @@ desenvolvendo APIs back-end com <b>NestJS, TypeScript e Prisma</b>.
 <br>
 
 <br>
-
-<!-- Conecte-se -->
-<h2 align="center">🤝 Connect with me</h2>
-
-<p align="center">
-  <a href="https://github.com/rhuangomes10">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rhuan-gomes-dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/rhuangomes12/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
-  </a>
-</p>
 
 <br>
 
