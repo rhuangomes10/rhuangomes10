@@ -52,7 +52,7 @@ desenvolvendo APIs back-end com <b>NestJS, TypeScript e Prisma</b>.
 
 <br>
 
-<!-- GitHub Stats -->
+
 <h2>📊 GitHub Stats</h2>
 
 <p>
@@ -64,11 +64,6 @@ desenvolvendo APIs back-end com <b>NestJS, TypeScript e Prisma</b>.
 
 <br>
 
-<h2>📈 Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rhuangomes10&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16"
-    alt="Activity Graph"
-  />
-</p>
+<h2>📈 Activity Graph</h2> 
+<p> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhuangomes10&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/> </p>
