@@ -32,11 +32,9 @@ developing back-end APIs with <b>NestJS, TypeScript, and Prisma</b>.
   <a href="https://github.com/rhuangomes10">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rhuan-gomes-dev">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/rhuangomes12/">
     <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
